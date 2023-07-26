@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "414378218880",
+    "project_id": "skindiseaseprediction-a96d9",
+    "storage_bucket": "skindiseaseprediction-a96d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414378218880:android:5a92f43bcbe1ee36cf5d65",
+        "android_client_info": {
+          "package_name": "com.example.skin_disease_prediction"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414378218880-3c2v7prhorbnh9d24hvd303q1r05upv9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.skin_disease_prediction",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "414378218880-bpp6so9cb4eu4jblf41etb9jb140sk8f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq6FiH6u0Nc-6GW3fy26NfqEDFUOZNPFY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "414378218880-bpp6so9cb4eu4jblf41etb9jb140sk8f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "414378218880-2lqice48pnof1goskqf9caj5914ttd0s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.skinDiseasePrediction"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
